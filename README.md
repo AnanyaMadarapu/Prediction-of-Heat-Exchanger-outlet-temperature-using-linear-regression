@@ -70,13 +70,5 @@ The model should learn the relationship between operating conditions and the out
 
 ---
 
-## Future Improvements
-
-- Multiple Linear Regression with additional process variables
-- Polynomial Regression
-- Random Forest Regression
-- Real industrial process data
-- Heat duty prediction
-- Heat exchanger fouling analysis
 
 ---
